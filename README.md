@@ -33,8 +33,9 @@
 
 - `word_embeddings.npy`：包含词嵌入的Numpy数组文件。
 
-## 附录——SGNS模型训练日志及SVD模型训练输出结果
-SGNS模型训练日志：
+## 附录
+
+### SGNS模型训练日志
 Step 1000, Current Loss: 0.9220963716506958
 Step 2000, Current Loss: 0.3517785668373108
 Step 3000, Current Loss: 0.2586981952190399
@@ -68,7 +69,7 @@ Step 28000, Current Loss: 0.0003881170123349875
 Step 29000, Current Loss: 0.004955930169671774
 Epoch 3, Average Loss: 0.003301385168382063
 
-SVD模型训练输出结果：
+### SVD模型训练输出结果
 Total number of nonzero singular values: 21681
 Number of selected singular values: 213
 Sum of selected singular values: 528361.31
